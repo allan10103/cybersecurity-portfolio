@@ -1,0 +1,13 @@
+ProgramID,ProgramName,DegreeLevel
+BSCS,Bachelor of Science in Computer Science,BS
+BSCP,Bachelor of Science in Computer Engineering,BS
+BSIT,Bachelor of Science in Information Technology,BS
+BSCYS,Bachelor of Science in Cybersecurity,BS
+BSAI,Bachelor of Science in Artificial Intelligence,BS
+MSCS,Master of Science in Computer Science,MS
+MSCP,Master of Science in Computer Engineering,MS
+MSAI,Master of Science in Artificial Intelligence,MS
+MSCYS,Master of Science in Cybersecurity,MS
+PhDCSE,Doctor of Philosophy in Computer Science and Engineering,PhD
+PhDDA,Doctor of Philosophy in Big Data Analytics,PhD
+

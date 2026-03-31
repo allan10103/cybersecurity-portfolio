@@ -1,0 +1,129 @@
+OfficeHourID,InstructorEmail,DayOfWeek,StartTime,EndTime,MeetingType,Notes
+1,akabir@usf.edu,Monday,2:00 PM,3:00 PM,In Person,ENB 327 
+2,akabir@usf.edu,Tuesday,3:30 PM,4:30 PM,In Person,ENB 327 
+3,akabir@usf.edu,Thursday,3:30 PM,4:30 PM,In Person,ENB 327 
+4,akholloman@usf.edu,Monday,2:00 PM,4:00 PM,In Person,ENB 343M 
+5,akholloman@usf.edu,Wednesday,2:00 PM,4:00 PM,In Person,ENB 343M 
+6,akholloman@usf.edu,Tuesday,10:00 AM,12:00 PM,Teams/Online,
+7,akholloman@usf.edu,Thursday,10:00 AM,12:00 PM,Teams/Online,
+8,akholloman@usf.edu,Friday,10:00 AM,12:00 PM,Teams/Online,
+9,alessio@usf.edu,Monday,7:45 PM,8:30 PM,In Person,CHE100
+10,alessio@usf.edu,Wednesday,7:45 PM,8:30 PM,In Person,CHE100
+11,alessio@usf.edu,Thursday,10:30 AM,12:00 PM,Teams/Online,
+12,alessio@usf.edu,,,,By Appointment,
+13,amitsealami@usf.edu,Friday,11:10 AM,12:10 PM,In Person,ENB 343K
+14,amitsealami@usf.edu,Friday,1:00 PM,3:00 PM,In Person,ENB 343K
+15,ankurarjunmali@usf.edu,Wednesday,11:00 AM,2:00 PM,Teams/Online,
+16,anshumanc@usf.edu,Tuesday,9:30 AM,10:00 AM,In Person,BEH 307
+17,attilaayavuz@usf.edu,Monday,9:00 AM,10:30 AM,Teams/Online,
+18,attilaayavuz@usf.edu,Wednesday,9:00 AM,10:30 AM,Teams/Online,
+19,attilaayavuz@usf.edu,,,,By Appointment,
+20,aweitzenfeld@usf.edu,Tuesday,2:00 PM,3:30 PM,In Person,ENB 314
+21,aweitzenfeld@usf.edu,Thursday,2:00 PM,3:30 PM,In Person,ENB 314
+22,caulkins@usf.edu,Monday,9:00 AM,12:00 PM,Teams/Online,
+23,caulkins@usf.edu,,,,By Appointment,
+24,ckambhamettu@usf.edu,,,,TBA,
+25,dayane3@usf.edu,Tuesday,1:30 PM,3:00 PM,In Person,ENB 318
+26,dayane3@usf.edu,Thursday,1:30 PM,3:00 PM,In Person,ENB 318
+27,fang1@usf.edu,Monday,1:30 PM,4:30 PM,In Person,ENG 016
+28,fengchun@usf.edu,Wednesday,2:00 PM,5:00 PM,In Person,ENB 369
+29,genekim@usf.edu,Monday,2:00 PM,4:00 PM,In Person,ENB 376
+30,genekim@usf.edu,Tuesday,2:00 PM,3:00 PM,In Person,ENB 376
+31,goldgof@usf.edu,Monday,12:00 PM,12:30 PM,In Person,ENB 326
+32,goldgof@usf.edu,Wednesday,12:00 PM,12:30 PM,In Person,ENB 326
+33,goldgof@usf.edu,Monday,1:45 PM,2:30 PM,In Person,ENB 326
+34,goldgof@usf.edu,Wednesday,1:45 PM,2:30 PM,In Person,ENB 326
+35,goldgof@usf.edu,Monday,5:00 PM,6:00 PM,Teams/Online,
+36,goldgof@usf.edu,,,,By Appointment,
+37,guangjingwang@usf.edu,Tuesday,2:00 PM,5:00 PM,In Person,BEH 311
+38,haozheng@usf.edu,Tuesday,2:00 PM,3:30 PM,In Person,ENB 312
+39,haozheng@usf.edu,Wednesday,2:00 PM,3:30 PM,In Person,ENB 312
+40,hjeanty@usf.edu,Monday,8:30 AM,9:30 AM,In Person,ENG 017
+41,hjeanty@usf.edu,Tuesday,8:30 AM,9:30 AM,In Person,ENG 017
+42,hjeanty@usf.edu,Wednesday,8:30 AM,9:30 AM,In Person,ENG 017
+43,hjeanty@usf.edu,Thursday,8:30 AM,9:30 AM,In Person,ENG 017
+44,hsyi@usf.edu,Tuesday,11:00 AM,12:00 PM,In Person,ENG 216
+45,hsyi@usf.edu,Thursday,11:00 AM,12:00 PM,In Person,ENG 216
+46,hsyi@usf.edu,,,,By Appointment,
+47,imoura@usf.edu,Wednesday,10:00 AM,12:00 PM,In Person,ENB 301B
+48,imoura@usf.edu,,,,By Appointment,Teams
+49,jiajunhuang@usf.edu,Wednesday,4:45 PM,7:45 PM,In Person,ENB 323
+50,jmanderson@usf.edu,Monday,3:30 PM,4:40 PM,Teams/Online,In Person in Office (ENG 215 ) and on Teams
+51,jmanderson@usf.edu,Tuesday,3:30 PM,4:40 PM,Teams/Online,In Person in Office (ENG 215 ) and on Teams
+52,jmanderson@usf.edu,Wednesday,3:30 PM,4:40 PM,Teams/Online,In Person in Office (ENG 215 ) and on Teams
+53,jmanderson@usf.edu,Thursday,3:30 PM,4:40 PM,Teams/Online,In Person in Office (ENG 215 ) and on Teams
+54,jtemplet@usf.edu,Monday,12:00 PM,1:00 PM,Teams/Online,
+55,jtemplet@usf.edu,Thursday,1:00 PM,3:00 PM,In Person,ENB 247
+56,juliaevewoodward@usf.edu,,,,Leave,NA (On maternity leave)
+57,jw@usf.edu,Monday,1:30 PM,3:00 PM,In Person,ENC 3501
+58,jw@usf.edu,Thursday,1:00 PM,2:30 PM,In Person,ENC 3501
+59,kafle@usf.edu,Wednesday,11:00 AM,2:00 PM,Teams/Online,
+60,kafle@usf.edu,,,,By Appointment,
+61,kaleemunnisa@usf.edu,Monday,3:30 PM,5:30 PM,In Person,ENB 343B
+62,kaleemunnisa@usf.edu,Wednesday,3:30 PM,5:30 PM,In Person,ENB 343B
+63,karnif@usf.edu,Wednesday,10:00 AM,1:00 PM,In Person,LIB 618B 
+64,karnif@usf.edu,,,,By Appointment,
+65,kchriste@usf.edu,,,,By Appointment,In Person (ENB 319) or Teams
+66,korzhova@usf.edu,Tuesday,3:00 PM,4:30 PM,In Person,ENB 343G
+67,korzhova@usf.edu,Thursday,3:00 PM,4:30 PM,In Person,ENB 343G
+68,kurtfriday@usf.edu ,Tuesday,1:00 PM,5:00 PM,In Person,ENB 301C
+69,kurtfriday@usf.edu ,Thursday,1:00 PM,5:00 PM,In Person,ENB 301C
+70,licato@usf.edu,,,,Leave,NA (Sabbatical)
+71,ligatti@usf.edu,Monday,5:00 PM,6:30 PM,In Person,ENB 333
+72,ligatti@usf.edu,Wednesday,5:00 PM,6:30 PM,In Person,ENB 333
+73,ligatti@usf.edu,,,,By Appointment,In Person (ENB 333) or Teams
+74,lohall@usf.edu,Tuesday,12:00 PM,1:30 PM,In Person,ENB 330 
+75,lohall@usf.edu,Thursday,12:00 PM,1:30 PM,In Person,ENB 330 
+76,lohall@usf.edu,,,,By Appointment,
+77,marbin@usf.edu,Wednesday,2:00 PM,4:30 PM,Teams/Online,
+78,marbin@usf.edu,,,,By Appointment,ENB 343C 
+79,mauriciop@usf.edu,Monday,9:30 AM,12:30 PM,In Person,ENB 343H
+80,mdrabbi@usf.edu,Monday,1:30 PM,2:30 PM,Teams/Online,In Person (BEH 313) or Teams
+81,mdrabbi@usf.edu,Wednesday,1:30 PM,2:30 PM,Teams/Online,In Person (BEH 313) or Teams
+82,mehran2@usf.edu,Monday,8:00 AM,11:00 AM,In Person,ENB 338
+83,murraybruce@usf.edu,,,,TBA,
+84,ningw@usf.edu,Monday,11:00 AM,12:30 PM,In Person,ENB 316
+85,ningw@usf.edu,Wednesday,11:00 AM,12:30 PM,In Person,ENB 316
+86,nkarimian@usf.edu,Tuesday,2:00 PM,4:00 PM,In Person,ENB 311
+87,pventura@usf.edu,Tuesday,11:30 AM,1:00 PM,Teams/Online,
+88,pventura@usf.edu,Wednesday,12:00 PM,1:30 PM,Teams/Online,
+89,rbaten@usf.edu,Thursday,9:00 AM,12:00 PM,In Person,ENG 116
+90,rkaram@usf.edu,Thursday,3:00 PM,5:00 PM,In Person,ENB 341 
+91,rrauscher@usf.edu,Tuesday,10:00 AM,11:00 AM,Teams/Online,In Person (LIB 628N) or Teams
+92,rrauscher@usf.edu,Thursday,10:00 AM,11:00 AM,Teams/Online,In Person (LIB 628N) or Teams
+93,rrauscher@usf.edu,,,,By Appointment,
+94,sarkar@usf.edu,,,,By Appointment,Email Hoda Bizri (hbizri@usf.edu) for appointment
+95,scanavan@usf.edu,Monday,12:00 PM,1:30 PM,Teams/Online,
+96,scanavan@usf.edu,Wednesday,12:00 PM,1:30 PM,Teams/Online,
+97,seungbae@usf.edu,,,,TBA,
+98,shareefahmed@usf.edu,Tuesday,10:30 AM,12:00 PM,In Person,ENB 367
+99,shareefahmed@usf.edu,Thursday,10:30 AM,12:00 PM,In Person,ENB 367
+100,sheng1@usf.edu,Wednesday,3:30 PM,5:30 PM,In Person,ENB 342B 
+101,sksmall@usf.edu,Tuesday,11:00 AM,2:00 PM,In Person,LIB 618E
+102,spandey1@usf.edu,Monday,1:30 PM,3:00 PM,In Person,ENB 325
+103,spandey1@usf.edu,Wednesday,1:30 PM,3:00 PM,In Person,ENB 325
+104,sriramc@usf.edu,Thursday,9:30 AM,10:30 AM,In Person,ENB 317
+105,sriramc@usf.edu,Friday,8:45 AM,10:45 AM,In Person,ENB 317
+106,szhang1@usf.edu,Monday,2:00 PM,5:00 PM,In Person,ENB 226A
+107,taseefr@usf.edu,Wednesday,11:00 AM,1:00 PM,Teams/Online,In Person (ENG 214) or Teams
+108,taseefr@usf.edu,,,,By Appointment,
+109,tjneal@usf.edu,,,,TBA,
+110,topsakal@usf.edu,Tuesday,2:00 PM,3:30 PM,In Person,ENB 343F
+111,topsakal@usf.edu,Thursday,2:00 PM,3:30 PM,In Person,ENB 343F
+112,topsakal@usf.edu,,,,By Appointment,
+113,tuy@usf.edu,Friday,1:00 PM,3:00 PM,In Person,ENB 340
+114,tuy@usf.edu,,,,By Appointment,
+115,uojha@usf.edu,Wednesday,12:30 PM,3:30 PM,In Person,ENB 329
+116,wgauvin@usf.edu,Tuesday,11:00 AM,12:00 PM,In Person,ENB 343B
+117,wgauvin@usf.edu,Thursday,11:00 AM,12:00 PM,In Person,ENB 343B
+118,wgauvin@usf.edu,,,,By Appointment,
+119,xou@usf.edu,Monday,10:30 AM,12:00 PM,In Person,ENC 2501
+120,xou@usf.edu,Thursday,10:30 AM,12:00 PM,In Person,ENC 2501
+121,yiliren@usf.edu,Tuesday,9:30 AM,11:00 AM,In Person,ENB 378
+122,yiliren@usf.edu,Tuesday,1:00 PM,2:30 PM,In Person,ENB 378
+123,yliu21@usf.edu,Wednesday,8:30 AM,11:30 AM,In Person,ENB 336 
+124,yusun@usf.edu,Wednesday,9:30 AM,10:00 AM,Teams/Online,
+125,yusun@usf.edu,Friday,9:30 AM,10:00 AM,Teams/Online,
+126,yzhang16@usf.edu,Monday,10:30 AM,1:30 PM,Teams/Online,
+127,yzhang16@usf.edu,,,,By Appointment,
+128,zhaohan@usf.edu,,,,Leave,TNA (On Parental Leave)

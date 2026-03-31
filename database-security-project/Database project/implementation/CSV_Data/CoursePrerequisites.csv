@@ -1,0 +1,111 @@
+CourseID,PrereqCourseID,CourseRequirementType,Explanation
+CAI4002,COP3514,Prereq,Introduction to Artificial Intelligence requires Program Design (min grade B)
+CAI4002,CDA3103,Prereq,Introduction to Artificial Intelligence also requires Computer Organization (min grade B)
+CAI4105,CAI4002,Prereq,Introduction to Machine Learning requires Introduction to Artificial Intelligence  (min grade C)
+CAI4841,COP4530,Prereq,Computer Vision requires Data Structures
+CAI4842,COP4530,Prereq,Image Processing Fundamentals requires Data Structures
+CAP4034,COP3514,Prereq,Computer Animation Fundamentals requires Program Design (min grade B) 
+CAP4034,COP4530,Prereq,Computer Animation Fundamentals requires Data Structures 
+CAP4103,COP3514,Prereq,Mobile Biometrics requires Program Design (min grade B)
+CAP4111,COP4530,Prereq,Introduction to Augmented and Virtual Reality requires Data Structures
+CAP4136,COP3515,Prereq,Malware Analysis and Reverse Engineering requires Advanced Program Design
+CAP4160,COP3514,Prereq,Brain-Computer Interfaces requires Program Design (min grade B)
+CAP4628,COP4530,Prereq,Affective Computing requires Data Structures
+CAP4637,COP4530,Prereq,Automated Reasoning and Theorem Proving requires Data Structures
+CAP4641,COP4530,Prereq,Natural Language Processing requires Data Structures
+CAP4662,COP4530,Prereq,Introduction to Robotics requires Data Structures
+CAP4744,COP4530,Prereq,Interactive Data Visualization requires Data Structures
+CAP4773,COP4530,Prereq,Social Media Mining requires Data Structures 
+CAP4773,CDA3201,Prereq,Social Media Mining requires Computer Logic and Design 
+CDA3103,COP2510,Prereq,Computer Organization requires Programming Concepts (min grade B)
+CDA3201,CDA3103,Prereq,Computer Logic and Design requires Computer Organization (min grade B)
+CDA3201,COP3514,Prereq,Computer Logic and Design also requires Program Design (min grade B)
+CDA3201L,COP3514,Prereq,Computer Logic and Design Lab requires Program Design (min grade B)
+CDA3201L,CDA3103,Prereq,Computer Logic and Design Lab also requires Computer Organization (min grade B)
+CDA4021,COP3514,Prereq,Computing Circuits requires Program Design (min grade B)
+CDA4021,CDA3103,Prereq,Computing Circuits also requires Computer Organization (min grade B)
+CDA4203,CDA3201,Prereq,Computer System Design requires Computer Logic and Design (min grade C) 
+CDA4203,CDA3201L,Prereq,Computer System Design requires Computer Logic and Design Lab (min grade C) 
+CDA4205,CDA3201,Prereq,Computer Architecture requires Computer Logic and Design (min grade C) 
+CDA4205,CDA3201L,Prereq,Computer Architecture requires Computer Logic and Design Lab (min grade C) 
+CDA4205L,CDA3201,Prereq,Computer Architecture Lab requires Computer Logic and Design (min grade C)
+CDA4213,CDA3201,Prereq,CMOS-VLSI Design requires Computer Logic and Design (min grade C) 
+CDA4213,CDA3201L,Prereq,CMOS-VLSI Design requires Computer Logic and Design Lab (min grade C) 
+CDA4253,CDA3201,Prereq,Field Programmable Gate Array System Design and Analysis requires Computer Logic and Design 
+CDA4253,CDA3201L,Prereq,Field Programmable Gate Array System Design and Analysis also requires Computer Logic and Design Lab 
+CDA4321,CDA3201,Prereq,Cryptographic Hardware and Embedded Systems requires Computer Logic and Design
+CDA4322,CDA3201,Prereq,Principles of Secure Hardware Design requires Computer Logic and Design
+CDA4322,CDA3201L,Prereq,Principles of Secure Hardware Design also requires Computer Logic and Design Lab
+CDA4323,CDA3201,Prereq,Practical Hardware Security requires Computer Logic and Design (min grade C) 
+CDA4323,CDA3201L,Prereq,Practical Hardware Security requires Computer Logic and Design Lab (min grade C) 
+CDA4621,COP3514,Prereq,Control of Mobile Robots requires Program Design (min grade B)
+CEN3722,COP3515,Prereq,Human Computer Interfaces for Information Technology requires Advanced Program Design
+CEN4020,COP4530,Prereq,Software Engineering requires Data Structures (min grade C)
+CEN4072,COP2510,Prereq,Software Testing requires Programming Concepts 
+CEN4072,COP4530,Prereq,Software Testing requires Data Structures 
+CGS3303,CGS1540,Prereq,IT Concepts requires Introduction to Databases
+CGS3853,COP3515,Prereq,Web Systems for IT requires Advanced Program Design (min grade C)
+CIS3213,COP2510,Prereq,Foundations of Cybersecurity requires Programming Concepts (min grade C)
+CIS3213,CGS1540,Prereq,Foundations of Cybersecurity also requires Introduction to Databases (min grade B)
+CIS3363,CIS3213,Prereq,Information Technology Systems Security requires Foundations of Cybersecurity 
+CIS3363,COP2513,Prereq,Information Technology Systems Security requires Object Oriented Programming 
+CIS3433,COP2510,Prereq,System Integration and Architecture for IT requires Programming Concepts (min grade C)
+CIS4083,COP3515,Prereq,Cloud Computing for IT requires Advanced Program Design (min grade C)
+CIS4200,COP3515,Prereq,Penetration Testing requires Advanced Program Design (min grade C)
+CIS4212,COP4530,Prereq,Privacy-Preserving and Trustworthy Cyber-Infrastructures requires Data Structures
+CIS4219,COP2513,Prereq,Human Aspects of Cybersecurity requires Object Oriented Programming
+CIS4219,CIS3213,Prereq,Human Aspects of Cybersecurity also requires Foundations of Cybersecurity
+CIS4345,COP3514,Prereq,Big Data Storage and Analysis with Hadoop requires Program Design (min grade B)
+CIS4622,COP2513,Prereq,Hands-on Cybersecurity requires Object Oriented Programming (min grade B)
+CIS4900,COP4530,Prereq,Independent Study in Computer Science requires Data Structures
+CIS4900,CDA3201,Prereq,Independent Study in Computer Science also requires Computer Logic and Design
+CIS4910,COP4530,Prereq,Computer Science and Engineering Project requires Data Structures (min grade C)
+CIS4915,COP4530,Prereq,Supervised Research in Computer Science requires Data Structures (min grade C-)
+CIS4915,CDA3201,Prereq,Supervised Research in Computer Science also requires Computer Logic and Design (min grade C-)
+CIS4930,COP4530,Prereq,Special Topics in Computer Science I requires Data Structures
+CIS4930,CDA3201,Prereq,Special Topics in Computer Science I also requires Computer Logic and Design
+CIS4940,COP4530,Prereq,Industry Internship requires Data Structures
+CIS4940,CDA3201,Prereq,Industry Internship also requires Computer Logic and Design
+CIS4947,COP3515,Prereq,Industry Internship requires Advanced Program Design (min grade C)
+CNT4004,COP3514,Prereq,Computer Networks I requires Program Design (min grade B)
+CNT4104,COP3515,Prereq,Computer Information Networks requires Advanced Program Design (min grade C)
+CNT4104L,COP3515,Prereq,Computer Information Networks Laboratory requires Advanced Program Design (min grade C)
+CNT4403,CNT4104,Prereq,Network Security and Firewalls requires Computer Information Networks (min grade C)
+CNT4411,COP4530,Prereq,Computing and Network Security requires Data Structures (min grade C-)
+CNT4419,COP4530,Prereq,Secure Coding requires Data Structures (min grade C)
+CNT4603,CNT4104,Prereq,System Administration and Maintenance for Information Technology requires Computer Information Networks (min grade C)
+CNT4716C,CNT4104,Prereq,Network Programming for IT requires Computer Information Networks (min grade C-)
+CNT5008,COP5227,Prereq,Networks Essentials requires C Programming Essentials
+COP2513,COP2510,Prereq,Object Oriented Programming requires Programming Concepts (min grade C)
+COP3353,COP2512,Prereq,User-Level Introduction to Linux for IT requires Programming Fundamentals for Information Technology
+COP3514,COP2510,Prereq,Program Design requires Programming Concepts (min grade B)
+COP3515,COP2513,Prereq,Advanced Program Design requires Object Oriented Programming
+COP4020,COP4530,Prereq,Programming Languages requires Data Structures
+COP4365,COP4530,Prereq,Software System Development requires Data Structures
+COP4368,COP2513,Prereq,Adv Object-Oriented Programming for IT requires Object Oriented Programming (min grade C)
+COP4520,COP4530,Prereq,Computing in Massively Parallel Systems requires Data Structures
+COP4530,COP3514,Prereq,Data Structures requires Program Design (min grade B)
+COP4530,CDA3103,Prereq,Data Structures also requires Computer Organization (min grade B)
+COP4538,COP3515,Prereq,Data Structures and Algorithms requires Advanced Program Design (min grade C)
+COP4600,COP4530,Prereq,Operating Systems requires Data Structures (min grade C)
+COP4620,COP4530,Prereq,Compilers requires Data Structures
+COP4703,COP4538,Prereq,Advanced Database Systems requires Data Structures and Algorithms (min grade C)
+COP4710,COP4530,Prereq,Database Design requires Data Structures
+COP4931,COP3515,Prereq,Special Topics requires Advanced Program Design (min grade C)
+COP5227,COP5008,Prereq,C Programming Essentials requires Computing Essentials
+COP5230,COP5008,Prereq,Object-Oriented Programming Essentials requires Computing Essentials
+COP5532,COP5227,Prereq,Data Structures Essentials requires C Programming Essentials 
+COP5532,COT5105,Prereq,Data Structures Essentials requires Discrete Structures Essentials 
+COP5612,COP5227,Prereq,Computer Systems Essentials requires C Programming Essentials
+COT4400,COP4530,Prereq,Analysis of Algorithms requires Data Structures
+COT4521,COP4530,Prereq,Computational Geometry requires Data Structures 
+COT4521,COT4400,Prereq,Computational Geometry requires Analysis of Algorithms 
+COT4601,CDA3103,Prereq,Quantum Computing and Quantum Algorithms requires Computer Organization (min grade B)
+COT4601,COP4530,Prereq,Quantum Computing and Quantum Algorithms also requires Data Structures
+COT5407,COP5532,Prereq,Algorithms Essentials requires Data Structures Essentials
+EEL5771,COP4530,Prereq,Introduction to Computer Graphics I requires Data Structures
+CDA3201L,CDA3201,Coreq,Computer Logic and Design Lab must be taken with Computer Logic and Design
+CDA4203L,CDA4203,Coreq,Computer System Design Lab must be taken with Computer System Design
+CDA4205L,CDA4205,Coreq,Computer Architecture Lab must be taken with Computer Architecture
+CDA4213L,CDA4213,Coreq,CMOS-VLSI Design Lab must be taken with CMOS-VLSI Design
+CNT4104L,CNT4104,Coreq,Computer Information Networks Laboratory must be taken with Computer Information Networks
