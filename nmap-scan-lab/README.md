@@ -38,4 +38,4 @@ Understanding open ports and services is critical for both attackers and defende
 
 Below is an example of a scan performed using Nmap:
 
-![Nmap Scan](screenshots/scan.png)
+![Nmap Scan](scan.png)
