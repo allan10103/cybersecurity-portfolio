@@ -22,3 +22,42 @@ The lab is used to generate and investigate security events in a controlled envi
 - Windows Event Logs
 - PowerShell
 - MITRE ATT&CK
+
+
+## Lab Architecture
+
+The homelab is built on a private `192.168.50.0/24` network with pfSense acting as the firewall and gateway. Active Directory and DNS services are provided by DC01, while Wazuh provides centralized security monitoring for the Windows systems.
+
+```text
+Internet
+   |
+   v
+pfSense Firewall
+LAN: 192.168.50.1
+   |
+   +--------------------- CORP Network (192.168.50.0/24) ---------------------+
+   |                                                                          |
+   v                                                                          v
+DC01                                                                    WAZUH-SIEM
+Windows Server 2025                                                     Ubuntu Server
+192.168.50.10                                                          192.168.50.20
+AD DS / DNS                                                             Wazuh Manager
+Group Policy                                                            SIEM / Monitoring
+   |
+   v
+CLIENT01
+Windows 11
+Domain Joined
+Wazuh Agent
+```
+
+**Domain:** `corp.homelab.test`
+
+### System Roles
+
+| System | Operating System | IP Address | Role |
+|---|---|---|---|
+| pfSense | pfSense CE | 192.168.50.1 | Firewall, router, and network gateway |
+| DC01 | Windows Server 2025 | 192.168.50.10 | Domain Controller, Active Directory, DNS, Group Policy |
+| WAZUH-SIEM | Ubuntu Server | 192.168.50.20 | Wazuh Manager, SIEM, centralized security monitoring |
+| CLIENT01 | Windows 11 | DHCP | Domain-joined employee workstation monitored by Wazuh |
