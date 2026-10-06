@@ -61,3 +61,15 @@ Wazuh Agent
 | DC01 | Windows Server 2025 | 192.168.50.10 | Domain Controller, Active Directory, DNS, Group Policy |
 | WAZUH-SIEM | Ubuntu Server | 192.168.50.20 | Wazuh Manager, SIEM, centralized security monitoring |
 | CLIENT01 | Windows 11 | DHCP | Domain-joined employee workstation monitored by Wazuh |
+
+## SOC Investigations
+
+### PowerShell Script Block Logging — Event ID 4104
+
+Investigated PowerShell Script Block Logging activity generated on the Windows Server domain controller and traced the telemetry through the complete Wazuh SIEM pipeline.
+
+The investigation included validating Windows Event ID 4104 locally, confirming Wazuh agent collection, verifying manager ingestion and alert generation, querying the Wazuh index, analyzing MITRE ATT&CK context, and determining the activity was expected administrative behavior.
+
+**Key skills:** SIEM troubleshooting, threat hunting, Windows Event Log analysis, PowerShell logging, alert triage, MITRE ATT&CK, and benign-positive analysis.
+
+[View the full SOC investigation →](investigations/01-powershell-event-4104.md)
