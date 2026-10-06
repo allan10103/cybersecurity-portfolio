@@ -33,6 +33,10 @@ Get-WinEvent -FilterHashtable @{LogName='Microsoft-Windows-PowerShell/Operationa
 
 The command confirmed that recent Event ID 4104 records existed locally on the domain controller.
 
+![PowerShell Event ID 4104 recorded on DC01](../screenshots/windows-event-4104-dc01.png)
+
+*Figure 1: PowerShell Script Block Logging Event ID 4104 recorded locally on the DC01 domain controller.*
+
 ## Wazuh Agent Validation
 
 The Wazuh agent on DC01 was configured to collect the PowerShell Operational event channel:
@@ -131,7 +135,11 @@ agent.name: DC01
 data.win.system.eventID: 4104
 ```
 
-The search returned **10 events**, confirming successful end-to-end collection and indexing.
+The search returned multiple Event ID 4104 alerts from DC01, confirming successful end-to-end collection and indexing.
+
+![Wazuh Threat Hunting results for PowerShell Event ID 4104](../screenshots/wazuh-powershell-4104-threat-hunting.png)
+
+*Figure 2: Wazuh Threat Hunting showing PowerShell Event ID 4104 alerts collected from DC01.*
 
 ## Alert Analysis
 
